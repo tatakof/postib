@@ -10,7 +10,7 @@ dominate small to mid size ai model market in latam
 - 
 - 
 
-
+s
 
 ## Objective 2: 
 

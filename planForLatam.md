@@ -3,3 +3,4 @@ No es necesario inventar el próximo Attention Mechanism para desarrollar IA en 
 Nuestra región requiere entrenar cientos o miles de modelos, no inventar el nuevo modelo revolucionario.
 
 
+s

@@ -1,7 +1,7 @@
 # Reporte de Hallazgos: Entrevistas a Potenciales Clientes sobre la Propuesta de valor de Surus
 
 ### **1\. RESUMEN EJECUTIVO**
-
+s
 **Gradiente Sur** es una empresa especializada en soluciones de inteligencia artificial con enfoque regional. Su producto **Surus** es una plataforma consolidada de modelos de IA, orientada a ofrecer interoperabilidad, rendimiento y soporte accesible a empresas de Latinoamérica.
 
 **Objetivo de las entrevistas:** Recoger insights de empresas potencialmente usuarias de Suru para validar su propuesta de valor, identificar necesidades clave, barreras, oportunidades y ajustar la estrategia comercial de lanzamiento.

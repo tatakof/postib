@@ -10,3 +10,6 @@ no nos importa el AGI, nos importan los programas aprendidos.
 
 
 Transformers are general-purpose computers, and the huge LLMs by the big competitors (e.g., openai, anthropic) are the mainframe AI computers of our time. But the mainframe era is ending, and tomorrows AI market will be dominated by smaller, specialized models.  
+
+
+a
