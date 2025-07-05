@@ -3,10 +3,9 @@
 ## Breve presentación (elevator pitch) *
 **(≤900 caracteres)**
 
-SURUS es el primer laboratorio de IA de LatAm, proporcionando modelos específicos de dominio 10x más baratos que OpenAI/Anthropic mediante entrenamiento regional especializado. Servimos al mercado de IA de $20B de LatAm con modelos orientados a tareas para sectores legal, agro y medios. Nuestra plataforma Sky Computing y profunda experiencia regional crean barreras competitivas insuperables. Con tracción comprobada (Tango-70b, 12+ entrevistas de validación), estamos posicionados para dominar el segmento de modelos de IA especializados y establecer soberanía tecnológica para América Latina.
+SURUS (https://surus.dev) es el primer laboratorio de IA de LatAm, proporcionando modelos específicos de dominio 10x más baratos que OpenAI/Anthropic mediante entrenamiento regional especializado. Servimos al mercado de IA de $20B de LatAm con modelos orientados a tareas para sectores legal, agro y medios. Nuestra plataforma Sky Computing y profunda experiencia regional crean barreras competitivas insuperables. Con experiencia en entrenamiento y despliegue de modelos (e.g. Tango-70b | https://tangoia.com) y 12+ entrevistas de validación, estamos posicionados para dominar el segmento de modelos de IA especializados y establecer soberanía tecnológica para América Latina.
 
 ## Objetivos del proyecto
-
 **Objetivo principal:** Convertirnos en el laboratorio de IA dominante de América Latina entrenando y sirviendo modelos orientados a tareas que superen a las alternativas globales para casos de uso regionales.
 
 **Motivaciones clave:**
@@ -84,12 +83,11 @@ SURUS es el primer laboratorio de IA de LatAm, proporcionando modelos específic
 
 **Evidencia de madurez TRL 5-6:**
 - **Plataforma beta:** surus.dev hospedando activamente 5-10 modelos
-- **Clientes reales:** Múltiples empresas usando nuestros servicios en producción
+- **Usuarios reales:** Desarrolladores usando nuestros servicios en producción
 - **Tecnología validada:** Capacidades probadas de entrenamiento y despliegue de modelos
 - **Infraestructura operacional:** Arquitectura multi-nube manejando cargas de producción
-- **Logros técnicos:** Tango-70b desplegado, múltiples modelos especializados funcionando
 
-**Justificación:** SURUS opera más allá de las etapas conceptuales con una plataforma en vivo sirviendo clientes reales y múltiples modelos desplegados demostrando preparación para el mercado.
+**Justificación:** SURUS opera más allá de las etapas conceptuales con una plataforma en vivo sirviendo desarrolladores reales y múltiples modelos desplegados demostrando preparación para el mercado.
 
 ## Valoración del Triple Impacto
 
