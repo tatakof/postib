@@ -1,2 +1,3 @@
 - add proyeccion financiera
 - add crunchbase????
+- put somewhere that for tango-70b we have a website (https://tangoia.com/), a chat platform (https://chat.tangoia.com/), and a huggingface repository with the model files (https://huggingface.co/sandbox-ai/Llama-3.1-Tango-70b-bnb_4b)

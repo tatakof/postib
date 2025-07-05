@@ -1,4 +1,4 @@
-# SURUS: AI Lab for Latin America - Business Plan
+# SURUS: The AI Lab for Latin America - Business Plan
 
 ## Table of Contents
 

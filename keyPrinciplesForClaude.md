@@ -1,5 +1,7 @@
 <key_principles> 
-- todo debe ser al punto, con alta densidad de información, no bullshit. En tiempos de escritura con AI, estos escritos para postulaciones están llenos de basura. Yo ya apliqué al IB50k el año pasado con un escrito muy muy extenso (60 paginas, cuando el max recomendado eran 25 paginas). El resultado fue que no lo leyeron y me rechazaron. 
+- en los lugares donde te falte informacion, no inventes o alucines nada, solo pone un tag de <missing_information> y luego te voy a dar la informacion necesaria. 
+
+- todo debe ser al punto, con alta densidad de información, no bullshit. En tiempos de escritura con AI, estos escritos para postulaciones están llenos de basura. Yo ya apliqué al IB50k el año pasado con un escrito muy muy extenso (60 paginas, cuando el max recomendado eran 25 paginas). El resultado fue que no lo leyeron y me rechazaron. Nosotros apuntemos a hacer 8 a 10 paginas. 
 
 - Cada párrafo debe comenzar con una oración única que resuma el contenido del párrafo; antes de escribir un párrafo, redacta la primera oración y evalúa si resume adecuadamente el resto del párrafo aún no escrito.
 

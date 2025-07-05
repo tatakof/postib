@@ -26,17 +26,21 @@
 
 ## Resumen Ejecutivo
 
-SURUS aborda la brecha del mercado de inteligencia artificial de América Latina, valorado en USD 20.000 millones, proporcionando modelos especializados con costos 10 veces menores que las alternativas globales. Somos el primer laboratorio de IA regional enfocado en modelos orientados a tareas entrenados con datos de América Latina, con demanda validada de más de 12 empresas entrevistadas en los sectores legal, agrícola y de medios. Nuestra ventaja competitiva radica en la experiencia regional que los jugadores globales no pueden replicar, posicionándonos para capturar el 10% del mercado, equivalente a USD 2.000 millones anuales. A través de nuestra plataforma Sky Computing y el profundo conocimiento regional, establecemos la soberanía tecnológica para América Latina mientras servimos la necesidad crítica de soluciones de IA especializadas y rentables.
+SURUS aborda la brecha del mercado de inteligencia artificial de América Latina, valorado en USD 20.000 millones para el año 2030, como el primer laboratorio de IA orientado a tareas que se enfoca en resolver problemas del mundo real con modelos especializados, en lugar de perseguir el desarrollo de AGI. Proporcionamos modelos específicos de dominio con costos 10 veces menores que las alternativas globales, aprovechando estratégicamente la comunidad de IA de código abierto para ofrecer la mejor selección de modelos sin los costos masivos de desarrollo interno. Con demanda validada de más de 12 empresas entrevistadas en los sectores legal, agrícola y de medios, nuestra ventaja competitiva radica en la experiencia regional que los jugadores globales no pueden replicar, posicionándonos para capturar el 10% del mercado de AI latinoamericano.
 
-Nuestro elevator pitch encapsula la oportunidad: SURUS es el primer laboratorio de IA de América Latina, proporcionando modelos específicos de dominio 10 veces más baratos que OpenAI/Anthropic mediante entrenamiento regional especializado. Servimos el mercado de IA de USD 20.000 millones de América Latina con modelos orientados a tareas para los sectores legal, agrícola y de medios. Nuestra plataforma Sky Computing y la profunda experiencia regional crean barreras competitivas insuperables. Con tracción comprobada incluyendo Tango-70b (https://tangoia.com) y acercándonos al product-market fit inicial, estamos posicionados para dominar el segmento de modelos de IA especializados y establecer la soberanía tecnológica para América Latina.
+Nuestra infraestructura Sky Computing complementa esta estrategia proporcionando una red de entrega de contenido a nivel de América Latina que garantiza baja latencia regional, evita el vendor lock-in, y nos permite reducir significativamente nuestros precios. A través de este enfoque de laboratorio orientado a tareas y el profundo conocimiento regional, establecemos la soberanía tecnológica para América Latina mientras servimos la necesidad crítica de soluciones de IA especializadas y rentables.
+
+Nuestro elevator pitch encapsula la oportunidad: SURUS es el primer laboratorio de IA orientado a tareas de América Latina, proporcionando modelos específicos de dominio 10 veces más baratos que OpenAI/Anthropic mediante entrenamiento regional especializado y aprovechamiento estratégico de la comunidad de código abierto. Servimos el mercado de IA de América Latina con modelos orientados a tareas y en dominios especializados como el legal, agrícola y de medios de comunicación. Nuestro enfoque de laboratorio especializado y la profunda experiencia regional crean barreras competitivas insuperables. Con experiencia en entrenar modelos de IA -como Tango-70b (https://tangoia.com)- y acercándonos a la primera etapa de product-market fit, estamos posicionados para dominar el segmento de modelos de IA especializados y establecer la soberanía tecnológica para América Latina.
 
 ## Grado de Innovación Tecnológica
 
-SURUS representa el primer enfoque sistemático hacia la especialización regional de IA, combinando innovación técnica con posicionamiento estratégico que los competidores globales no pueden replicar. Nuestra innovación central se basa en la arquitectura Sky Computing, una infraestructura agnóstica de nube que permite el despliegue sin interrupciones a través de AWS, GCP y Azure, proporcionando confiabilidad y optimización de costos que los proveedores de nube única no pueden igualar. Esto representa un cambio fundamental de la era actual de "IA mainframe" dominada por modelos masivos de propósito general hacia soluciones especializadas y eficientes adaptadas para necesidades regionales específicas.
+SURUS representa el primer laboratorio de IA orientado a tareas de América Latina, combinando innovación técnica con posicionamiento estratégico que los competidores globales no pueden replicar. Nuestra innovación central radica en el enfoque de laboratorio especializado que se concentra en resolver problemas del mundo real con modelos específicos, en lugar de perseguir el desarrollo de AGI. Esto representa un cambio fundamental de la era actual de "IA mainframe" dominada por modelos masivos de propósito general hacia soluciones especializadas y eficientes adaptadas para necesidades regionales específicas.
 
-El grado de originalidad en nuestro enfoque es sin precedentes en el contexto latinoamericano. Ningún competidor se enfoca exclusivamente en la especialización de modelos para América Latina, lo que nos convierte en el primer laboratorio regional de IA dedicado a esta misión. Nuestra filosofía de adaptación-primero se inspira en el modelo chino de "Optimización y Escala >> Innovación", demostrando ser altamente efectiva para mercados emergentes donde la soberanía tecnológica importa más que impulsar la frontera absoluta de las capacidades de IA. Este posicionamiento estratégico nos permite superar a los gigantes globales en casos de uso específicos mientras evitamos la competencia directa en áreas donde carecemos de recursos.
+El grado de originalidad en nuestro enfoque es sin precedentes en el contexto latinoamericano. Ningún competidor se enfoca exclusivamente en la especialización de modelos orientados a tareas para América Latina, lo que nos convierte en el primer laboratorio regional de IA dedicado a esta misión. Nuestra filosofía de adaptación-primero se inspira en el modelo chino de "Optimización y Escala >> Innovación", demostrando ser altamente efectiva para mercados emergentes donde la soberanía tecnológica importa más que impulsar la frontera absoluta de las capacidades de IA. Este posicionamiento estratégico nos permite superar a los gigantes globales en casos de uso específicos mientras evitamos la competencia directa en áreas donde carecemos de recursos.
 
-Nuestras barreras técnicas contra competidores incluyen acceso propietario a conjuntos de datos regionales esenciales para entrenar modelos específicos de América Latina, experiencia local profunda que comprende las necesidades comerciales regionales, y una red comunitaria establecida a través de SandboxAI que proporciona momentum de innovación continua. La plataforma Sky Computing reduce los costos operativos mientras mejora la confiabilidad, creando ventajas competitivas sostenibles que los jugadores globales no pueden replicar fácilmente sin inversión regional significativa.
+Nuestra segunda innovación clave es el aprovechamiento estratégico de la comunidad de IA de código abierto para servir una gran cantidad de los mejores modelos disponibles. Esto nos permite ofrecer diversidad y calidad sin los costos masivos de desarrollo interno de cada modelo. La arquitectura Sky Computing complementa esta estrategia al proporcionar una red de entrega de contenido a nivel de América Latina que garantiza baja latencia regional, evita el vendor lock-in de proveedores de nube específicos, y nos permite reducir significativamente nuestros precios al optimizar costos operativos a través de múltiples proveedores.
+
+Nuestras barreras técnicas contra competidores incluyen acceso propietario a conjuntos de datos regionales esenciales para entrenar modelos específicos de América Latina, experiencia local profunda que comprende las necesidades comerciales regionales, y una red comunitaria establecida a través de SandboxAI que proporciona momentum de innovación continua. El enfoque de laboratorio orientado a tareas combinado con nuestra infraestructura multi-nube crea ventajas competitivas sostenibles que los jugadores globales no pueden replicar fácilmente sin inversión regional significativa y cambio fundamental de estrategia.
 
 ## Oportunidad de Negocio Representada por el Desarrollo
 
@@ -190,6 +194,49 @@ El impacto de desarrollo regional abarca soberanía tecnológica reduciendo depe
 Las contribuciones al desarrollo nacional incluyen diversificación económica reduciendo dependencia de exportaciones tradicionales de commodities, construcción de capacidad de innovación creando ventajas tecnológicas sostenibles, desarrollo de talento atrayendo y reteniendo profesionales calificados, potencial de exportación generando moneda extranjera a través de servicios tecnológicos, y transferencia de conocimiento acelerando avance tecnológico regional a través de múltiples sectores y aplicaciones.
 
 La visión a largo plazo posiciona América Latina como una potencia global de IA a través de soluciones especializadas y rentables sirviendo necesidades regionales mientras compite internacionalmente. Esta transformación representa más que éxito comercial: establece soberanía tecnológica y posicionamiento competitivo esencial para el desarrollo regional en la economía global impulsada por IA.
+
+---
+
+## Referencias y Enlaces
+
+### Estudios de Mercado y Estadísticas
+- **iMarc Group** - Latin America Artificial Intelligence Market Size, Share, Trends and Forecast by Type, Offering, Technology, System, End-Use Industry, and Country, 2025-2033. Disponible en: https://www.imarcgroup.com/latin-america-artificial-intelligence-market
+
+- **Stanford University** - The 2024 AI Index Report. Stanford HAI. Disponible en: https://hai.stanford.edu/ai-index/2024-ai-index-report
+
+### Plataformas y Productos SURUS
+- **SURUS AI-Lab Platform**: https://surus.dev/
+- **SURUS API Catalogue**: https://surus.dev/catalogue
+- **SURUS Playground**: https://surus.dev/playground
+
+### Modelos y Desarrollos Técnicos
+
+#### Tango Models
+- **Tango-70b Website**: https://tangoia.com/
+- **Tango Chat Platform**: https://chat.tangoia.com/
+- **Tango-70b HuggingFace Repository**: https://huggingface.co/sandbox-ai/Llama-3.1-Tango-70b-bnb_4b
+- **Tango-8b HuggingFace Repository**: https://huggingface.co/sandbox-ai/Llama-3.1-Tango-8b-Instruct-f16
+
+#### Modelos Especializados de SURUS
+- **Llama-3.2-3B-Orpheus-Rioplatense**: https://huggingface.co/marianbasti/Llama-3.2-3B-Orpheus-Rioplatense-1795
+- **Llama-3.2-3B-Orpheus-Chilean**: https://huggingface.co/marianbasti/Llama-3.2-3B-Orpheus-Chilean-1795
+- **Whisper-Large-V3-Turbo-LatAm**: https://huggingface.co/marianbasti/whisper-large-v3-turbo-latam
+- **ModernBERT-Large-BORA**: https://huggingface.co/marianbasti/ModernBERT-large-BORA
+- **XTTS-v2-Argentinian-Spanish**: https://huggingface.co/marianbasti/XTTS-v2-argentinian-spanish
+- **Distil-Whisper-Large-V3-ES**: https://huggingface.co/marianbasti/distil-whisper-large-v3-es
+
+### Instituciones Académicas y de Investigación
+- **Isaac Newton Institute for Mathematical Sciences, University of Cambridge**
+- **KU Leuven, Belgium**
+- **Universidad Nacional de Río Negro (CITECCA)**
+- **CONICET (Consejo Nacional de Investigaciones Científicas y Técnicas)**
+
+### Comunidades y Ecosistemas
+- **SandboxAI** - Comunidad de IA de América Latina
+- **SAIA** - Sociedad Argentina de Inteligencia Artificial
+- **El Club de la IA**
+- **Latinx Tech**
+- **TRIBU Tech**
 
 ---
 
