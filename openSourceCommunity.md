@@ -1,0 +1,3 @@
+We are supporting LatAm's AI open source community by providing free compute credits for AI projects, by opening datasets for training new models, by opening our training pipelines and recipes to foster model development, and by providing written documentation and tutorials to help developers get started.
+This in turn will make latam's AI community make more and better AI models, which we will host in our platform and make available to our customers.
+Therefore establishing a virtuous cycle / flywheel effect between our platform and the latam's AI community.

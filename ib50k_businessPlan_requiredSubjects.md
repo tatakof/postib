@@ -1,0 +1,21 @@
+## IB50k bussines plan required subjects: 
+- Executive summary
+- Degree of technological innovation
+- Business opportunity represented by the development
+- Project maturity level
+- Quality and breadth of the team
+- Description of products and/or services
+- Intellectual property protection strategy
+- Target markets: description and sizing
+- Geographic location of the venture
+- Competitor analysis and competitive advantage of the business
+- Supplier analysis
+- Operations strategy and/or production process
+- Market entry and/or commercialization strategy
+- Description of team and organization roles and capabilities
+- Cash flow required to bring the product to market
+- Project execution and investment timeline
+- Strengths, Opportunities, Weaknesses, and Threats (SWOT) analysis
+- How do they plan to establish themselves within the national territory?
+- How will this company impact local, regional, and/or national development?
+
