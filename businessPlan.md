@@ -1,8 +1,32 @@
 # SURUS: AI Lab for Latin America - Business Plan
 
+## Table of Contents
+
+1. [Executive Summary](#executive-summary)
+2. [Degree of Technological Innovation](#degree-of-technological-innovation)
+3. [Business Opportunity Represented by the Development](#business-opportunity-represented-by-the-development)
+4. [Project Maturity Level](#project-maturity-level)
+5. [Quality and Breadth of the Team](#quality-and-breadth-of-the-team)
+6. [Description of Products and Services](#description-of-products-and-services)
+7. [Intellectual Property Protection Strategy](#intellectual-property-protection-strategy)
+8. [Target Markets: Description and Sizing](#target-markets-description-and-sizing)
+9. [Geographic Location of the Venture](#geographic-location-of-the-venture)
+10. [Competitor Analysis and Competitive Advantage](#competitor-analysis-and-competitive-advantage)
+11. [Supplier Analysis](#supplier-analysis)
+12. [Operations Strategy and Production Process](#operations-strategy-and-production-process)
+13. [Market Entry and Commercialization Strategy](#market-entry-and-commercialization-strategy)
+14. [Description of Team and Organization Roles and Capabilities](#description-of-team-and-organization-roles-and-capabilities)
+15. [Cash Flow Required and Investment Timeline](#cash-flow-required-and-investment-timeline)
+16. [Project Execution and Investment Timeline](#project-execution-and-investment-timeline)
+17. [SWOT Analysis](#swot-analysis)
+18. [National Territory Establishment Strategy](#national-territory-establishment-strategy)
+19. [Local, Regional, and National Development Impact](#local-regional-and-national-development-impact)
+
+---
+
 ## Executive Summary
 
-SURUS addresses the $20B Latin American AI market gap by providing specialized models at 10x lower cost than global alternatives. We are the first regional AI lab focused on task-oriented models trained on LATAM data, with validated demand from 12 interviewed companies across legal, agro, and media sectors. Our competitive advantage lies in regional expertise that global players cannot replicate, positioning us to capture 10% market share worth $2B annually. Through our Sky Computing platform and deep regional knowledge, we establish technological sovereignty for Latin America while serving the critical need for cost-effective, specialized AI solutions.
+SURUS addresses the $20B Latin American AI market gap by providing specialized models at 10x lower cost than global alternatives. We are the first regional AI lab focused on task-oriented models trained on LATAM data, with validated demand from 12+ interviewed companies across legal, agro, and media sectors. Our competitive advantage lies in regional expertise that global players cannot replicate, positioning us to capture 10% market share worth $2B annually. Through our Sky Computing platform and deep regional knowledge, we establish technological sovereignty for Latin America while serving the critical need for cost-effective, specialized AI solutions.
 
 Our elevator pitch encapsulates the opportunity: SURUS is LatAm's first AI lab, providing domain-specific models 10x cheaper than OpenAI/Anthropic through specialized regional training. We serve the $20B LatAm AI market with task-oriented models for legal, agro, and media sectors. Our Sky Computing platform and deep regional expertise create insurmountable competitive barriers. With proven traction including Tango-70b and approaching nascent product-market fit, we're positioned to dominate the specialized AI model segment and establish technological sovereignty for Latin America.
 
@@ -56,11 +80,13 @@ Service offerings extend beyond model access to include custom model training fo
 
 ## Intellectual Property Protection Strategy
 
-<missing_information>Specific IP protection strategies, patent filings, trade secrets, and licensing approaches</missing_information>
+SURUS employs a strategic approach to intellectual property that fundamentally believes open-source AI development is the optimal path for advancing Latin America's technological capabilities, while maintaining competitive advantages through selective timing and proprietary operational excellence. Our commitment to regional AI development drives us to contribute meaningfully to the open-source ecosystem, recognizing that collective advancement benefits the entire Latin American technology landscape.
 
-Our intellectual property strategy centers on proprietary datasets, specialized training methodologies, and operational expertise that create competitive barriers without relying primarily on patents. The regional datasets we've developed for training LatAm-specific models represent significant value that competitors cannot easily replicate. Our Sky Computing architecture and ZenML pipeline optimizations provide operational advantages protected through trade secrets and continuous innovation.
+Our core IP strategy balances open innovation with competitive positioning: we maintain proprietary control over our frontier models during initial development and market establishment phases, allowing us to secure strategic advantages and revenue streams necessary for sustainable growth. Once these models have established market presence and generated sufficient competitive differentiation, we commit to open-sourcing them to accelerate regional AI development. This approach ensures SURUS remains commercially viable while contributing to Latin America's long-term technological sovereignty.
 
-The open-source component of our strategy builds community engagement while protecting core business assets through a sophisticated flywheel approach. We provide free compute credits for AI projects, open datasets for training new models, share training pipelines and recipes to foster development, and create comprehensive documentation and tutorials. This community investment generates superior models that we host on our platform, creating a virtuous cycle where community contributions enhance our commercial offerings. We selectively open-source strategic assets to foster regional AI development and establish thought leadership, while maintaining proprietary control over our most valuable commercial differentiators. This approach balances community building with competitive protection, creating sustainable advantages through network effects and regional expertise.
+The proprietary components of our strategy center on specialized training methodologies, curated regional datasets, and operational expertise that create sustainable competitive barriers. Our Sky Computing architecture and ZenML pipeline optimizations provide operational advantages protected through trade secrets and continuous innovation. The regional datasets we've developed for training LatAm-specific models represent significant value that competitors cannot easily replicate, particularly our understanding of cultural nuances and regional business contexts.
+
+Our open-source contributions include strategic datasets, community tools, and educational resources that foster regional AI development without compromising core competitive advantages. We provide free compute credits for AI projects, share training pipelines and recipes after establishing commercial advantages, and create comprehensive documentation that accelerates community development. This approach positions SURUS as both a commercial leader and a catalyst for regional technological advancement, creating sustainable competitive moats through community network effects and thought leadership while maintaining the proprietary advantages necessary for business success.
 
 ## Target Markets: Description and Sizing
 
