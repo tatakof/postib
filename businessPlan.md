@@ -32,11 +32,19 @@ The multi-cloud infrastructure handles production loads across AWS, GCP, and Azu
 
 ## Quality and Breadth of the Team
 
-<missing_information>Detailed team member profiles, specific roles, educational backgrounds, and organizational structure</missing_information>
+SURUS is powered by a world-class team combining advanced technical expertise with deep regional knowledge, proven through successful deployment of Latin America's first 70B parameter LLM and multiple production AI systems. Our interdisciplinary team brings together AI research excellence, high-performance computing infrastructure, and product development mastery—a combination that global competitors cannot easily replicate in the Latin American context.
 
-Our proven track record demonstrates exceptional execution capability in AI model development and community building. The team successfully trained and deployed multiple large language models including Tango-70b and Tango-8b, established the SandboxAI R&D community fostering regional AI innovation, and built operational multi-cloud infrastructure serving production customers. This combination of technical execution and community leadership creates the foundation for scaling SURUS across Latin America.
+**Francis Felici - CEO (Model Training | Team & Vision | Distribution)**
+Our CEO brings 6 years of AI development experience including leading the development of Tango-70b, Latin America's first large language model, with the hope of putting latinAmerica on the map of AI development. Francis left his quantitative biology PhD program at CONICET after 3 years to pursue this AI startup opportunity, bringing advanced research experience from University of Cambridge's Isaac Newton Institute alongside entrepreneurial commitment to regional AI development. His track record includes achieving 80% accuracy in soybean pest forecasting at Syngenta UK, developing assisted communication systems improving patient communication by 4x at Neufitech, and publishing peer-reviewed research on hierarchical models for forecasting biological systems. His Fulbright scholarship and international experience provide global perspective while maintaining strong regional roots and unwavering dedication to Latin America's technological sovereignty.
 
-Core competencies span the full AI development lifecycle: advanced machine learning expertise for model training and optimization, cloud infrastructure mastery enabling multi-cloud deployment and scaling, product development skills ensuring excellent developer experience through API design, and deep market understanding of regional business needs and cultural nuances. The team's regional expertise represents irreplaceable knowledge that global competitors cannot easily acquire, forming a sustainable competitive advantage.
+**Marian Basti - CTO (Data & Models | Inference Serving | Community)**
+Our CTO serves as Technical Lead at University of Río Negro's CITECCA computing center, bringing exceptional high-performance computing and infrastructure expertise essential for scaling AI operations. Marian built the data pipelines that trained Tango-70b and developed inference serving infrastructure using vLLM for SURUS models. His contributions include training multiple specialized models for Latin American contexts: Llama-3.2 variants for Rioplatense and Chilean Spanish, whisper-large-v3-turbo-latam for regional speech recognition, and ModernBERT-large-BORA for advanced embeddings. As co-developer of ALI (Argentina's first open-source legal assistant), Marian demonstrates both technical excellence and commitment to regional AI development.
+
+**Pablo De Lucca - CPO (Product Development | Team Management | Frontend)**
+Our Chief Product Officer brings versatile full-stack development expertise with proven startup experience and direct involvement in Tango-70b development. With a Master's in Electromechanical Engineering Technology (Summa Cum Laude) from KU Leuven, Pablo combines technical depth with product intuition. His experience spans leading frontend development for real-time maritime alert systems achieving 92% accuracy in vessel detection, developing AI-powered applications including the Tango chat platform, and building scalable microservices architecture. His contribution to ALI's user interface design and his solo founding of Instant Bookmark demonstrate both collaborative excellence and entrepreneurial capability.
+
+**Organizational Excellence:**
+Our team structure optimizes for both immediate execution and long-term scaling: Francis provides AI research leadership and strategic vision, Marian ensures robust infrastructure and community development, and Pablo delivers exceptional user experience and product development. This complementary skill distribution covers the full AI development lifecycle from research through deployment to user adoption. Our proven collaboration through SandboxAI and Tango-70b demonstrates exceptional team chemistry and shared commitment to regional AI advancement.
 
 ## Description of Products and Services
 
@@ -44,7 +52,7 @@ SURUS delivers domain-specific AI models through a unified API platform, offerin
 
 The Sky Computing platform provides the technical foundation, enabling cloud-agnostic deployment across AWS, GCP, and Azure for maximum reliability and cost optimization. Developers access our models through a unified API interface, supported by comprehensive documentation, interactive playground for testing, and real-time monitoring dashboards. Our developer-centric approach includes free tiers for experimentation, transparent pricing, and local currency payment options addressing regional economic dynamics.
 
-Service offerings extend beyond model access to include custom model training for enterprise clients, infrastructure services for companies wanting to deploy their own models, and consulting services leveraging our regional AI expertise. The platform's modular architecture allows customers to combine multiple models and services, creating comprehensive AI solutions tailored to their specific business needs while maintaining cost efficiency and regional optimization.
+Service offerings extend beyond model access to include custom model training for enterprise clients, infrastructure services for companies wanting to deploy their own models, and consulting services leveraging our regional AI expertise. Our open-source community strategy creates a powerful flywheel effect: we provide free compute credits for AI projects, open datasets for training new models, share training pipelines and recipes to foster model development, and provide comprehensive documentation and tutorials for developers. This community engagement generates more and better AI models, which we host on our platform and make available to customers, establishing a virtuous cycle between our platform and Latin America's AI community. The platform's modular architecture allows customers to combine multiple models and services, creating comprehensive AI solutions tailored to their specific business needs while maintaining cost efficiency and regional optimization.
 
 ## Intellectual Property Protection Strategy
 
@@ -52,7 +60,7 @@ Service offerings extend beyond model access to include custom model training fo
 
 Our intellectual property strategy centers on proprietary datasets, specialized training methodologies, and operational expertise that create competitive barriers without relying primarily on patents. The regional datasets we've developed for training LatAm-specific models represent significant value that competitors cannot easily replicate. Our Sky Computing architecture and ZenML pipeline optimizations provide operational advantages protected through trade secrets and continuous innovation.
 
-The open-source component of our strategy builds community engagement while protecting core business assets. We selectively open-source certain models and datasets to foster regional AI development and establish thought leadership, while maintaining proprietary control over our most valuable commercial assets. This approach balances community building with competitive protection, creating sustainable advantages through network effects and regional expertise.
+The open-source component of our strategy builds community engagement while protecting core business assets through a sophisticated flywheel approach. We provide free compute credits for AI projects, open datasets for training new models, share training pipelines and recipes to foster development, and create comprehensive documentation and tutorials. This community investment generates superior models that we host on our platform, creating a virtuous cycle where community contributions enhance our commercial offerings. We selectively open-source strategic assets to foster regional AI development and establish thought leadership, while maintaining proprietary control over our most valuable commercial differentiators. This approach balances community building with competitive protection, creating sustainable advantages through network effects and regional expertise.
 
 ## Target Markets: Description and Sizing
 
@@ -102,11 +110,18 @@ Customer acquisition metrics track conversion rate from free to paid users, cust
 
 ## Description of Team and Organization Roles and Capabilities
 
-<missing_information>Specific team member roles, organizational chart, and detailed capability assessment</missing_information>
+SURUS operates through a lean but powerful organizational structure optimized for rapid scaling while maintaining technical excellence and regional focus. Our three-person core team combines complementary expertise covering all critical business functions: AI research and strategic leadership, infrastructure and community development, and product development and user experience.
 
-The organizational structure emphasizes technical excellence and regional market understanding: core technical roles include founding engineer providing technical leadership, model trainer specializing in AI/ML optimization, and infrastructure engineer managing multi-cloud operations. Business development roles encompass marketing and sales lead focused on developer acquisition, community lead building regional AI ecosystem, and partnership manager establishing strategic relationships with regional businesses.
+**Technical Leadership Structure:**
+- **CEO (Francis Felici)**: Drives AI research strategy, model training initiatives, team vision, and market distribution. Leverages PhD-level research expertise and international experience to ensure SURUS maintains technical leadership while building sustainable regional advantages.
+- **CTO (Marian Basti)**: Manages all infrastructure operations, model serving optimization, and community engagement. Combines HPC administration expertise with hands-on AI development to ensure platform reliability and scalability.
+- **CPO (Pablo De Lucca)**: Leads product development, user experience design, and team management. Ensures developer-centric approach and exceptional user experience while coordinating cross-functional execution.
 
-Role distribution balances immediate operational needs with scaling requirements: technical roles ensure product quality and platform reliability, business roles drive customer acquisition and revenue growth, and community roles build long-term competitive advantages through ecosystem development. Each role leverages regional expertise and technical competence essential for success in the Latin American AI market.
+**Capability Distribution:**
+Our role distribution strategically balances immediate operational needs with long-term scaling requirements. Technical capabilities ensure platform reliability and model quality, business capabilities drive customer acquisition and revenue growth, and community capabilities build sustainable competitive advantages through ecosystem development. Each team member brings both deep technical competence and regional market understanding essential for success in Latin America.
+
+**Scaling Strategy:**
+The current team structure supports immediate operations while providing clear expansion pathways: additional model trainers will accelerate specialized model development, infrastructure engineers will enhance platform scalability, and business development professionals will drive customer acquisition. Our proven ability to execute complex projects like Tango-70b demonstrates readiness for scaling challenges ahead.
 
 ## Cash Flow Required and Investment Timeline
 
