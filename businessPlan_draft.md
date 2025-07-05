@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-SURUS addresses the $20B Latin American AI market gap by providing specialized models at 10x lower cost than global alternatives. We are the first regional AI lab focused on task-oriented models trained on LATAM data, serving 12+ validated customers across legal, agro, and media sectors through our Sky Computing platform. Our competitive advantage lies in regional expertise that global players cannot replicate, positioning us to capture significant market share in a region where no company currently produces AI at scale.
+SURUS addresses the $20B Latin American AI market gap by providing specialized models at 10x lower cost than global alternatives. We are the first regional AI lab focused on task-oriented models trained on LATAM data, with validated demand from 12 interviewed companies across legal, agro, and media sectors through our Sky Computing platform. Our competitive advantage lies in regional expertise that global players cannot replicate, positioning us to capture significant market share in a region where no company currently produces AI at scale.
 
 **Elevator Pitch (≤900 characters):**
 SURUS is LatAm's first AI lab, providing domain-specific models 10x cheaper than OpenAI/Anthropic through specialized regional training. We serve the $20B LatAm AI market with task-oriented models for legal, agro, and media sectors. Our Sky Computing platform and deep regional expertise create insurmountable competitive barriers. With proven traction (Tango-70b, 12+ customers), we're positioned to dominate the specialized AI model segment and establish technological sovereignty for Latin America.
@@ -22,7 +22,7 @@ SURUS originated from identifying the critical bottleneck in Latin America's AI 
 
 ## Customer Discovery & Validation
 
-Our market validation process involved comprehensive interviews with 12 AI companies across diverse sectors, revealing quantified pain points that directly validate our value proposition.
+Our market validation process involved comprehensive interviews with 12 AI companies across diverse sectors, revealing quantified pain points that directly validate our value proposition. We currently serve a few early customers and are approaching nascent product-market fit.
 
 **Customer Research Findings:**
 - **11 out of 12 companies** prioritize cost reduction as their primary concern
@@ -67,8 +67,7 @@ Latin America's AI market presents a $20B opportunity by 2030, with current adop
 
 **Market Size Analysis:**
 - **Top-Down**: iMarc Group projects $20B LatAm AI market by 2030
-- **Bottom-Up**: $986M addressable market calculated from 710M population × 0.70 internet penetration × 0.50 GenAI adoption × $3.97 annual revenue per user
-- **Target Market Share**: 10% capture equals $98M annual revenue
+- **Target Market Share**: 10% capture of $20B market equals $2B annual revenue potential
 
 **Current Market Dynamics:**
 - **55% organizational AI adoption** in developing markets
@@ -80,8 +79,8 @@ Latin America's AI market presents a $20B opportunity by 2030, with current adop
 - **Model efficiency improvements** enabling cost-effective specialized training
 - **Cloud outsourcing growth** despite on-premise capabilities
 
-**First Client Validation:**
-12 companies across legal, agro, media, and general AI sectors have validated our approach with specific use cases and willingness to pay for specialized solutions.
+**Market Validation:**
+12 interviewed companies across legal, agro, media, and general AI sectors have validated our approach with specific use cases and willingness to pay for specialized solutions. We currently serve early customers and are approaching nascent product-market fit.
 
 ## Competitive Landscape & Strategic Positioning
 
@@ -147,7 +146,7 @@ SURUS operates on a Sky Computing architecture that provides superior reliabilit
 
 **Operational Excellence:**
 - **99.9% Uptime**: Multi-cloud redundancy ensuring reliability
-- **Global CDN**: Low-latency model serving across LatAm
+- **LatAm-wide CDN**: Low-latency model serving across Latin America
 - **Automated Scaling**: Dynamic resource allocation based on demand
 - **Security**: Enterprise-grade data protection and compliance
 
@@ -210,7 +209,7 @@ SURUS operates at TRL 5-6 (Technology validated in relevant environment), with l
 SURUS generates positive economic, environmental, and social impacts aligned with Latin America's development priorities and global sustainability goals.
 
 **Economic Impact:**
-- **Revenue Potential**: $98M annual revenue target creating substantial economic value
+- **Revenue Potential**: $2B annual revenue target creating substantial economic value
 - **Job Creation**: High-skilled employment in AI and technology sectors
 - **Innovation Ecosystem**: Catalyzing regional AI development and entrepreneurship
 - **Cost Savings**: 10x reduction in AI costs for regional businesses
@@ -235,7 +234,7 @@ SURUS generates positive economic, environmental, and social impacts aligned wit
 
 **Revenue Projections:**
 - **Year 1**: <missing_information>Initial revenue targets</missing_information>
-- **Year 5**: $98M annual revenue (10% of $986M addressable market)
+- **Year 5**: $2B annual revenue potential (10% of $20B LatAm AI market)
 - **Growth Model**: Freemium to enterprise scaling with increasing ARPU
 
 **Investment Requirements:**
